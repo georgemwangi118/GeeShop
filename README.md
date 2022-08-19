@@ -18,9 +18,11 @@ Hi! My name is George Mwangi, I have created this project as a way to put my ful
 
 ## Install Dependencies
 
-For backend - **cd server** **npm install**
-For frontend - **cd client** **npm install**
-Then create your own **.env** file
+For backend - `cd server` `npm install`
+
+For frontend - `cd client` `npm install`
+
+Then create your own `.env` file
 
 ## How to Run the Project
 
